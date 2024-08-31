@@ -1,4 +1,4 @@
-# PokeData <img src='./src/assets/pokeball.svg' width='16'>
+#  <img src='./src/assets/pokeball.svg' width='35'> PokeData 
 
 PokeData is a web application that provides detailed information about various Pokémon. The project is built using React.js, with a focus on UI/UX design. This application showcases different Pokémon types, each represented by unique icons, offering a clean and intuitive interface for users.
 
