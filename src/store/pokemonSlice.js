@@ -5,7 +5,7 @@ const initialState = {
         all:[],
         typePokemons:[],
         loading:true,
-        isDarkMode:false
+        isDarkMode:true
     },
 }
 
